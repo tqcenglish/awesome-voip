@@ -21,3 +21,5 @@
 
 *[SWYH](https://github.com/StreamWhatYouHear/SWYH) Windows 软件，抓取当前系统声音通过 http, dlna 推送到指定的播放设备.
 *[Macast](https://github.com/xfangfang/Macast) 跨平台软件, 通过 dlna 接受来自手机等设备的投屏(音频/视频/文件等).
+*[gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) DLNA 播放器。
+*[pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna) dlna 客户端.
